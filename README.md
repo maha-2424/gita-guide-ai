@@ -16,6 +16,11 @@ GitaGuide AI is an AI-powered spiritual guidance application inspired by the **B
 This project demonstrates **Multi-Agent AI Architecture** using Python and Streamlit.
 
 ---
+## 🌐 Live Demo
+
+🚀 Try the app here:
+
+https://gita-guide-ai-f8lavayycad4hurnremdwx.streamlit.app/
 
 # ✨ Features
 
