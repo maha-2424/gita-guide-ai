@@ -52,6 +52,25 @@ gita-guide-ai/
 ```
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](assets/home.png)
+
+### 💬 Chat Interface
+
+![Chat](assets/home1.png)
+
+### 📖 AI Guidance
+
+![Result](assets/home2.png)
+
+### 🌸 Final Output
+
+![Output](assets/home3.png)
+
+---
 
 ## ❤️ Made With
 
